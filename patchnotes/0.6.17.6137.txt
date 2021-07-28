@@ -1,0 +1,27 @@
+0.6.17.6137
+
+https://steamdb.info/patchnotes/6480995/
+
+Hi engineers,
+
+CentreBrain can't dismiss the problems that occur on your way to power it, so we fixed them!
+
+The development of new content will be a long journey full of inspiration. We are also looking forward to the future of the Dyson Sphere Program universe just as you, dear engineers.
+
+Let's take a look at today's update:
+
+[Version 0.6.17.6137]
+
+Features:
+
+Added the query (double-check box) before dismantling the Storage/Tanks/Logistic Stations. You can turn the pop-up box on/off in the Setting.
+Added a function that now you can press and hold [SHIFT]+[DELETE] to delete the holding items directly.
+Changes:
+
+Power Statistics Panel UI: exchanged the colors of Discharging power and Charging power
+Bugfix:
+
+Fixed the bug that sometimes you may received an empty Accumulator after removing a fully charged Accumulator
+Fixed the bug that sometimes solar sail was not generated after removing the Dyson sphere frame and Dyson shell
+Fixed the bug that the heat value in the Thermal power station did not change after the heat value of fuel was changed
+Thank you for your continuing support! You can send your feedback in Discord and Google Form! See you next time!

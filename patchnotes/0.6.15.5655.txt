@@ -1,0 +1,17 @@
+0.6.15.5655
+
+https://steamdb.info/patchnotes/6146795/
+
+Hi engineers,
+
+Thanks to all of your efforts, the amount of Dyson Sphere is increasing in the galaxy while the bugs are vanishing one after another. Your support are encouraging us to move forward. Thank you!
+
+[Version 0.6.15.5655]
+
+Bug Fix:
+
+Fixed a bug that the distance may not judged correctly while constructing a logistic station.
+Improvement:
+
+You can find that the UI is running more smooth in manual research, technology tree and research queue than before, because the UI efficiency is optimized 0.5ms/frame.
+Looking forward to your feedback in Discord and Google Form! See you next time!

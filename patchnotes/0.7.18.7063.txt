@@ -1,0 +1,37 @@
+0.7.18.7063
+
+https://steamdb.info/patchnotes/6807315/
+
+Hi engineers,
+
+There's an old Chinese going says 'The weather in June changes rapidly like Children's mood'. Don't forget to see the weather forecast and take care of health!
+
+[Version 0.7.18.7063]
+
+Feature:
+
+Now you can choose to Enable/Disable your Milky Way function in the [Settings - Gameplay] option.
+Now you can choose to upload/not upload your Dyson Sphere data to Milky Way server in the [Settings - Gameplay] option.
+Now you can manually delete your Dyson Sphere data already uploaded to Milky Way in the [Settings - Gameplay] option.
+Now you can turn on/off the advisor's prompts Added the ability to turn on or off advisor prompts in the [Settings - Miscellaneous] option.
+Now you can hold down the right mouse button in Milky Way to see the camera facing the center of the Milky Way and automatically patrol around.
+Change:
+
+Now your ID in Milky Way will be different from other players
+Optimized server operating efficiency, and the Milky Way can be loaded smoother than before.
+No longer publicly display the names of the Top 10 Possessors in the Milky Way
+Adjusted the initial camera position of the Milky Way when entering the Milky Way from StarMap - Now if you enter the Milky Way from StarMap, you will see the location of your star cluster in the Milky Way at the first glance.
+Optimized the logic of camera control in the Milky Way
+Optimized the VFX of the Milky Way view
+Increased the building limit for mass construction from 12 to 15
+Bugfix:
+
+Fixed a bug that may appear when the player picked up items in the construction mode
+Fixed a bug that the name may be obscured by the bright light of the star cluster when rolling closer to a star cluster
+Fixed a bug that the player's name and his/her Dyson Sphere data may not be displayed correctly in the Milky Way after the player's Dyson Sphere data reached the requirements.
+Fixed the bug that the thumbnail of the Logistic Vessel may be displayed incorrectly when entering Milky Way from StarMap
+Fixed a bug that the UI of Milky Way may be displayed incorrectly
+Fixed a bug that the cargo may be imported or exported incorrectly after built Storage Tanks, fractionators or energy exchanges under certain circumstances
+Fixed a bug of mold-through under Construction Mode due to the too-late refreshing of collision frame while building a construction
+Fixed the bug that the dismantle gizmo may be displayed incorrectly when dismantling the splitter
+Thank you for your continuing support! You can send your feedback in Discord and Google Form! See you next time!

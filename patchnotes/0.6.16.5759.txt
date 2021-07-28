@@ -1,0 +1,34 @@
+0.6.16.5759
+
+https://steamdb.info/patchnotes/6213055/
+
+Dear engineers,
+
+Chinese New Year is just around the corner and we wish to extend our best wishes to all of you! Despite that, the journey towards the starry sea will continue, so don't forget to replenish and re-energize yourselves while awaiting our return!
+
+As a going-on-holiday gift, we present to you our last update before Chinese New Year's eve! As promised a few days ago, Keybinding and Quick Upgrade functions are now launched in this patch. And guess what, we also brought you an extra present - the Chain Dismantle function!
+
+We're taking a short break and will be out of the office for a few days to celebrate Chinese New Year before returning to bring you more anticipated and fancy game updates. After the holidays, we will begin work on delivering a multi-language patch. Stay tuned!
+
+~Best wishes and Happy Chinese New Year~
+
+[Version 0.6.16.5759]
+
+Feature:
+
+Quick Upgrade: You are able to upgrade the conveyor belt, sorter, and assembling machine by directly putting the new ones (cover/overlap/move) on the lower grade ones.
+Chain Upgrade and Chain Dismantle: You are able to upgrade or dismantle a whole conveyor belt directly with this new function.
+Keybinding: You are able to rebind hotkeys.
+Add a hint message of pressing 'SHIFT' to accelerate while sailing.
+Change:
+
+We modified the planet generation to make it easier to start. From now on, there must be 6 iron and 6 copper beside Icarus's landing place.
+We changed the saving process to relieve the memory pressure. The savedata will be written directly to the hard disk.
+Balance:
+
+Reduce the energy consumption of deceleration and steering in sail mode.
+Bugfix:
+
+Fixed a bug that the lights of the energy exchangers flash for no reason.
+Fixed a bug where the arrow on the energy exchanger panel might be reversed.
+Thank you for your continuing support! Looking forward to your feedback in Discord and Google Form! See you next time!

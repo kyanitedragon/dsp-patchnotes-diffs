@@ -1,0 +1,45 @@
+0.7.18.7178
+
+https://steamdb.info/patchnotes/6887307/
+
+Hi engineers!
+
+New updates, a step closer to the Blueprint! In addition, we are continuously optimizing the operation experience of the conveyor belt construction. In consideration of the coming system and its stability and balancing, please understand that some ‘good’ bugs that you are using may be fixed in the near future.
+
+[Pickup: This update adjusted the recipe of battery, rare ore, and fuel rod. Check your assembly line if there's some!]
+
+[Version 0.7.18.7178]
+
+Feature:
+
+Now the Accumulator's VFX of charging, discharging, and full charged status are different.
+Now the conveyor belt will be highlighted when it is selected
+Added LOD1 and LOD2 to Chemical Plant and optimized its GPU efficiency.
+Changes:
+
+Restored animation of the node when constructing the conveyor belt
+Optimized the collision generating algorithm according to the actual geometric information of the conveyor belt, and modified a part of the collision detection when the conveyor belt is constructed.
+Optimized conveyor belt's selection logic for a better operation experience.
+Fine-tuned the collision frame size of the Assembler, Storage, and Tesla Tower.
+Remade the collision frame of the Ray Receiver and adjusted its minimum distance in batch construction.
+Optimized the geometric calculation logic of the connection between the conveyor belt and the building, so that the collision size of the Splitter and Storage Tank is also reduced
+Added some prompts for conveyor belt construction, including "export required" for buildings and "press R to change path" when the deflection angle is too large
+Modified the construction logic of the conveyor belt. The starting point will not be able to be confirmed when the indicator point is red
+Balance:
+
+Increased the power and capacity of the Accumulator, reduced the Super-magnetic ring consumption of accumulator recipe
+Changed the recipe of the three kinds of fuel rods to reduce the consumption of 'shell materials'
+Increased the Small Carrier Rocket's consumption of Deuteron fuel rod recipe
+Increased output of two rare minerals, Kimberlite ore, and fractal silica, and reduced their production time
+Reduced the number of Optical Grating Crystal Vein required in the Casimir crystal (advanced) recipe
+Increased the material consumption of solar panel's recipe
+BugFix:
+
+Fixed a bug that there was no collision between conveyor belt and minerals when building a conveyor belt on highland
+Fixed a bug that the environment modification may cause an error on collision frame refreshment which lead to a problem of minerals not being collected
+Fixed a bug that the frame could be connected inside the Dyson Shell which may made the Dyson shells overlaps each other
+Fixed a bug that continuous clicking at the same position in the Dyson Sphere planning frame may made the nodes overlap each other
+Fixed the error message prompt caused by switching the program window (error code: PlayerAction_Inspect 271)
+Fixed a bug that the light rendering of Milky Way may superimposed when entering and leaving the Milky Way in succession
+Fixed a bug that using foundation at position [latitude 0°, longitude 180°] may caused terrain voids
+Thank you for your continuing support! You can send your feedback in Discord and Google Form! See you next time!

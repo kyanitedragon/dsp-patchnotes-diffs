@@ -1,0 +1,115 @@
+0.7.18.6914
+
+https://steamdb.info/patchnotes/6775025/
+
+Dear engineers,
+
+We have reached the start of Civilization Type III. In the future, the Dyson Sphere Program universe will become even broader because of our joint efforts.
+
+Before we go to the update log, CentreBrain wants to send you some special tips that will affect your game progress:
+
+·Crude oil becomes a consuming resource. The less crude oil remaining in the blowout well, the more difficult it will be to collect. The extraction efficiency can be down to 0.1/s. To keep your extraction efficiency, you can change the resource magnification setting and upgrade the mineral utilization level.
+
+·The Cluster Seeds are different from the old version.
+
+·You need to reopen the file to experience some of the newly added content
+
+·Blueprint is NOT included in this update yet but on the way!
+
+[Version 0.7.18.6914]
+
+Features:
+
+A Brand New Milky Way View- Civilization Type III System
+
+All the engineers are generating ONE galaxy! - Among the engineers using the same star cluster seed, the engineer's universe with the largest power generation will be displayed in the Milky Way.
+
+
+
+Added an entrance for Milky Way view. There are two ways to enter it: Click and enter the 'Milky Way' button in the main menu, or scroll to the farthest view in the starmap.
+
+Now you are able to browse the star cluster you selected in the Milky Way view.
+
+Added the statistics of the Milky Way view, including the total number of Dyson spheres, the total power generation of Dyson spheres, and the total number of solar sails launched.
+
+Added functions to the Milky Way view, included cluster data browsing, ranking of each star area in the Milky Way view.
+
+New Assembly Line construction mode – Now you can press [TAB] to switch between 'Snap to Grid' or 'Free line' mode. In 'Free line' mode, you don't have to build the conveyor belt stick to the grid, but like this:
+
+
+
+New Mass Construction function! Left-click and drag your mouse can build the construction in a row. The interval among the constructions can be adjusted before the drone works on them.
+
+Now you can quickly replicate the construction along with its SORTERs! Use [Shift+left click] to copy the built building, and the position of the Sorters will be intelligently adapted to the available position.
+
+
+
+Now you can cover and quick upgrade in the construction mode.
+
+CPU multi-threading system and related settings are available now. The logic of Sorters, Logistic Stations, Manufacturing Building, Matrix Lab, and Electricity System are incorporated in the multi-threading system.
+
+Added new advanced Smelters and its related new tech and recipes.
+
+Added new technology that can increase the speed of warp. The more you upgrade the tech, the faster the warp!
+
+Added the logic to manually control the warp speed of the mecha
+
+Added 4 new background music themes of space, factory, and ocean
+
+
+
+New desert planet: Dry Lack Planet
+
+New desert planet: Scarlet Ice Lake Planet
+
+New desert planet: Hurricane Stone Forest Planet
+
+New ocean planet: Blossom Forest Planet
+
+Added a new terrain generation algorithm for the Scarlet Ice Lake Planet
+
+Added ice shader for Scarlet Ice Lake Planet
+
+Added 9 planting model for Blossom Forest Planet
+
+Decorate the planet with your foundation! Now you can choose a color or customize a color on the palette for the foundation.
+
+
+
+Add a new foundation texture
+
+Added LOD1 and LOD2 rendering detail level to the sorter optimized the Sorter's GPU consumption.
+
+Added LOD1 rendering detail level to Storage, optimized the Storage's GPU consumption.
+
+Now you can browse the local file of savedata in the Save/Load interface.
+
+Changes:
+
+Dyson Sphere Program's underlying code framework is fully updated. It is now more efficient on CPU calculating.
+Dyson Sphere Program's construction system logistic framework is fully recoded.
+Optimized the logic of copy and paste building settings (recipes, filters, mode settings, etc.) to prepare for the BluePrint.
+Adjusted and narrow the construction collision frame of the Ray Receiver.
+Balance:
+
+Increased the working power of Assembling machine Mk.II and MK.III
+Increased the standby power of the Satellite Substation
+Increased the working power of the EM-Rail Ejector
+Increased basic life of solar sail (0.5h -> 1.5h) and maximum life after upgrade (1h -> 2.5h)
+Increased the basic power generation of the Ray Receiver (5MW -> 6MW)
+Increased the power generation multiple of the photon mode of the Ray Receiver (5 -> 8). The new maximum power of the Ray Receiver is 240MW
+Increased the warm-up time of the Ray receiver (15min -> 20min)
+Increased the critical photon energy (750MJ -> 1.2GJ)
+Decreased Antimatter fuel rod's energy (7.5GJ -> 7.2GJ) and consume antimatter quantity (10 -> 6)
+Decreased Artificial Star power generation 75MW -> 72MW
+Fine-tuning the calorific value of various fuels
+Crude oil is now a consuming resource. Collecting crude oil will gradually reduce the production of blowout wells down to a minimum of 0.1/s. The rate of decline is now related to the resource magnification setting and mineral utilization level.
+Increased the production of crude oil blowout wells in the beginning planet and reduced the production of crude oil blowout wells in distant planets
+Bugfix:
+
+Fixed the bug that the Warper were not be returned when the Logistics Station was dismantled
+Fixed the bug that the Graviton lens was not be returned when the Ray Receiver was dismantled
+Modified the miplevel algorithm of the foundation and fixed some potential seam problems in the foundation rendering.
+This is the end of the update log. Thanks for reading and see you next time!
+
+Send feedback in Discord and Google Form!

@@ -1,0 +1,24 @@
+0.8.19.7757
+
+https://steamdb.info/patchnotes/7100466/
+
+Hi engineers,
+
+We received feedbacks about had problems with Blueprint snap, so we updated it in this patch and hope it can greatly reduce the difficulty of building Blueprints near the poles and in other situation. Let's take a look:
+
+[Version 0.8.19.7757]
+
+Feature:
+
+Now the Blueprint is able to snap to the pole automatically.
+Added automatic snapping to the Blueprint Paste Mode. For Blueprints that across multiple tropics, it can automatically identify the rotation of the north and south poles and automatically align the latitude and longitude.
+Added the auxiliary line of tropics in Blueprint Mode.
+Change:
+
+Modified the Blueprint UI layout of the copy and paste interface.
+BugFix:
+
+Fixed the bug that the location of the building may kept changing when dragging in the Blueprint Paste Mode.
+Fixed the bug that the collision between Conveyor Belt and veins may failed in the Blueprint Mode.
+Fixed the bug that an error may be reported when overwritten the Blueprint new save path with the same name.
+Thank you for your continuing support! You can send your feedback in Discord and Google Form! See you next time!

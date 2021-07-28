@@ -1,0 +1,30 @@
+0.6.17.5932
+
+https://steamdb.info/patchnotes/6371214/
+
+Hi Engineers!
+
+Today is the tree planting day in China. Although we cut down a lot of trees in the game, please be eco-friendly in reality ;).
+
+We heard your voice of the quick copy of the Sorters, Blueprints, etc. Don't worry, they are on their way - as big fans of factory games, we understand your needs!
+
+[Version 0.6.17.5932]
+
+Features:
+
+
+
+The Mass Upgrade / Dismantle function is now available! You are now able to define the scope of batch upgrades/demolitions in the same way as laying foundations. Please notice the red mark in the screenshot above.
+LOD1 and LOD2 are added to the rendering to optimize the GPU Rendering cost of the Smelter.
+
+
+Changes:
+
+Remade the model, texture, and VFX of Thermal Power Station, and the interface position for Sorter is fine-tuned.
+Remade the model, texture, and VFX of Mini Fusion Power Station, and the interface position for Sorter is fine-tuned.
+
+
+Bugfix:
+
+Fixed the bug that the stored liquid may be mixed when the liquid stored in the vertical direction with different kinds of liquid in each Storage Tank.
+Thank you for your continuing support! You can send your feedback in Discord and Google Form! See you next time!

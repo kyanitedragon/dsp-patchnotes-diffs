@@ -1,0 +1,26 @@
+0.6.16.5780
+
+https://steamdb.info/patchnotes/6260483/
+
+Happy new year to all the Dyson Sphere Program engineers!
+
+The Chinese New Year holidays has gone, and the first update log for 2021 is already here!
+
+For the Roadmap, we are doing final sorting and adjusting, and it will be updated as soon as possible.
+
+Happy Dyson Sphere Program 2021!
+
+[Version 0.6.16.5780]
+
+Features:
+
+Add new soundFX for labs
+Changes:
+
+Optimized UI of smelters/assemblers. The mecha inventory will no longer display if no recipe is selected.
+Reduce the soundFX volume of smelter and optimize its attenuation range.
+Bugfix:
+
+Fix a thread safety issue in random planet generation algorithms.
+Fix a rendering glitch when building a massive number of labs. (more than 2,048)
+Thank you for your continuing support! You can send your feedback in Discord and Google Form! See you next time!

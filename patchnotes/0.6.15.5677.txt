@@ -1,0 +1,24 @@
+0.6.15.5677
+
+https://steamdb.info/patchnotes/6162793/
+
+Hi engineers,
+
+Nice weekend! Good rest for both you and us！
+
+[Version 0.6.15.5677]
+
+Features:
+
+Now you can hear the demolition of building.
+Now you can hear the working sound of 6 kinds of facilities, such as Ray Receiver and Fractionator.
+Changes:
+
+You can find a brand new pick-up collision frame for Satellite Substation and Particle Collider. It's easier to distinguish the range of mouse picking now.
+Bugfix:
+
+Fixed the bug that the ambient volume did not change with the main volume.
+Fixed the bug that sometimes the power UI may display incorrectly when the thermal power station was working under a low workload.
+Fixed the bug that the color of the switch button for the storage tank was incorrect.
+Modified the collision size of the Tesla tower to solve the problem that sometimes the conveyor belt was not able to connect to it correctly.
+Looking forward to your feedback in Discord and Google Form! See you next time!

@@ -1,0 +1,15 @@
+0.6.15.5678
+
+https://steamdb.info/patchnotes/6163054/
+
+Dear engineers,
+
+Some of you meet a problem while demolish conveyors or building after updating the version 0.6.15.5677. We have fixed the bug now, sorry for the troubles.
+
+[Version 0.6.15.5678]
+
+BugFix:
+
+Fixed the bug that an error may occur while demolishing conveyors or builidings.
+
+Looking forward to your feedback in Discord and Google Form! See you next time!

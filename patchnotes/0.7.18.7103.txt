@@ -1,0 +1,19 @@
+0.7.18.7103
+
+https://steamdb.info/patchnotes/6831976/
+
+Hello engineers!
+
+We did a modification on [TAB] hotkey usage in the previous patch and saw plenty of engineer's feedback about it. We took the initiative to consider the problems that players may meet, and hope that every fine-tuning of the game operation can bring you a better experience, so we adjusted the [TAB] function again.
+
+[Version 0.7.18.7103]
+
+Changes:
+
+Restored [Tab] as the hotkey of Logistic Station output filter, and the hotkey of Conveyer Belt path change is set as [R].
+The production and consumption of manual work are added to the statistics panel's 'Total' tab.
+BugFix:
+
+Fixed the bug that the size of the Foundation cursor automatically changed back to 2x2 after restarted the game.
+Fixed the bug that when quick coping Splitter by [Shift]+[Left Click], the Splitter style may be incorrect.
+Thank you for your continuing support! You can send your feedback in Discord and Google Form! See you next time!

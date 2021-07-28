@@ -1,0 +1,27 @@
+0.6.17.6112
+
+https://steamdb.info/patchnotes/6475150/
+
+Hi engineers,
+
+With the coming of April, we are about to enter the rhythm of medium / large scale content development, and a new round of difficulties, and an intensive development schedule. It will take a lot of time, but we will forecast the content of the upcoming patch earlier to facilitate you to plan and prepare in advance. For example - the quick copy of the sorters is on its way.
+
+Let's see the update log today:
+
+[Version 0.6.17.6112]
+
+Features:
+
+Added system framework of item drop/pick up
+Optimized the Assembler GPU Rendering cost by adding the LOD1 and LOD2 to rendering detail levels
+Optimized the models of logistics drones and vessels and the rendering costs on GPU
+Changes:
+
+You won't loss your items due to "Inventory is full" anymore. Instead, they will fall on the ground or float in the space!
+Bugfix:
+
+Fixed a bug that mecha walking may be interrupted when pressing S from the perspective of God in the Construction Mode
+Fixed the bug that the customized celestial bodies' names may not be updated in the production statistics panel
+Fixed a bug that a facility may be built in the wrong place because of the failure of the calculating of building placement distance
+Fixed the bug that it may report an error when the Logistics Station is dismantled
+Thank you for your continuing support! You can send your feedback in Discord and Google Form! See you next time!

@@ -1,0 +1,21 @@
+0.7.18.6940
+
+https://steamdb.info/patchnotes/6782788/
+
+Hi engineers,
+
+Before the 4th update log in this week, I would like to introduce the MINIMUM requirement of being visible on Milky Way:
+
+One solar sail or Dyson Sphere node is launched
+The savedata's version is 0.7.18 or above;
+NO CHEATING (Using third-party software to modify the game data will be judge as cheating)
+[Version 0.7.18.6940]
+
+Changes:
+
+Optimized the network interface and data access of the Milky Way
+Bugfix:
+
+Fixed the bug that the Logistic Station could't be clicked in Planet View mode
+Fixed the bug on judgement of cheating on Milky Way
+Thank you for your continuing support! You can send your feedback in Discord and Google Form! See you next time!

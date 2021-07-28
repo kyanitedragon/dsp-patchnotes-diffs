@@ -1,0 +1,30 @@
+0.6.17.5972
+
+https://steamdb.info/patchnotes/6408457/
+
+Hi Engineers!
+
+Spring is coming! Icarus can't feel warm or cold, but we human beings can still be cold at spring. The Chinese old saying ask people to keep warm so that everyone can be healthier in the summer. Have a try!
+
+We also brought you some new features and fixes today. Let’s take a look!
+
+[Version 0.6.17.5972]
+
+Feature:
+
+Now you can customize the names of celestial bodies. You can either rename them on thumbnail in the lower left corner, or on and the information panel on the right side of the planetary view / star map interface.
+Added the celestial body operation interface in the star map. Now you can view the celestial bodies easier, and you can decide to turn on/off the space labels of the celestial bodies.
+Added the heading indicator line of your target celestial body. You can open the heading indicator line after you find the target celestial body.
+Change:
+
+Optimized the logic of takeoff / landing / acceleration / deceleration of Logistics Vessel to make it faster and in line with scientific principles after upgrades.
+Modified English translation of some item and technical descriptions.
+Balance:
+
+Hydrogen fuel rod should have higher combustion efficiency. Incrased the energy value of Hydrogen fuel rod: 40MJ - > 50MJ
+Adjusted the energy consumption of Logistics Vessel: when the sailing speed is upgraded to more than 3000m/s, no additional energy consumption will be increased according to the maximum sailing speed
+Bug repair:
+
+Fixed the bug that the rocket could not catch up to the node around some large-mass black holes due to the Dyson spherical node's capture range is not large enough.
+Fixed bugs that the game menu will pop up directly when pressing ESC in dismantle mode and upgrade mode.
+Thank you for your continuing support! You can send your feedback in Discord and Google Form! See you next time!

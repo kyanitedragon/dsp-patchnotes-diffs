@@ -1,0 +1,12 @@
+0.6.15.5618
+
+https://steamdb.info/patchnotes/6122628/
+
+Hi Engineers! We have a fixed for an issue that affects your gameplay:
+
+[Version 0.6.15.5618]
+
+Bugfix:
+
+Fix a bug that the mouse pointer sparkling/flashing/repeat appearing and disappearing on certain monitors.
+Still we are working on replicate and fixing the problems and issues. Feel free to join us on Discord, or submit a but form to Google Form). Thank you for your support to Dyson Sphere Program!

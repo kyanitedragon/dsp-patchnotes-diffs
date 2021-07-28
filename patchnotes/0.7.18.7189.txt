@@ -1,0 +1,16 @@
+0.7.18.7189
+
+https://steamdb.info/patchnotes/6893362/
+
+Engineers!
+
+We fixed some bugs today. [spoiler] Definitely had nothing to do with yesterday's patch![/spoiler]
+
+[Version 0.7.18.7189]
+
+Bugfix:
+
+Fixed a bug that the mass copied Sorters may not connect correctly because of the optimized collision frame in [7178] update.
+Fixed a bug that some conveyor belt intersections could not be connected.
+Fixed a bug that when the maximum capacity of Logistic Station, the drone may still flied without any item with it.
+Thank you for your continuing support! You can send your feedback in Discord and Google Form! See you next time!

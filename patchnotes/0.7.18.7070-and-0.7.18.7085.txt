@@ -1,0 +1,26 @@
+0.7.18.7070 and 0.7.18.7085
+
+https://steamdb.info/patchnotes/6825373/
+
+Hi engineers,
+
+We made some hotfix for the reported problems.
+
+This announcement is combined with the 0.7.18.7085 log which just updated, and the 0.7.18.7070 version updated 3 days ago,
+
+[Version 0.7.18.7085]
+Changes:
+
+[TAB] is no longer the key of output fliter of Logistic Station because of hotkey conflict. You can use [←]/[→] to switch the fliter of Logistic Station from now on.
+Optimized the data length of Solar Sail in savedata - now each Solar Sail occupies 57 bytes of savedata (1,000,000 Solar Sailes≈54.3MBytes)
+BugFix:
+
+Added Error Message for Multi Thread system (The previous version didn't have error prompt for Multi Thread and it may caused further data error). Please know that this Bugfix will lead 'red message' for the savedata with errors.
+Fixed the bug that the number of 'Number of Engineers' may display incorrectly in Milky Way
+Fixed the bug that the ocean type of Scarlet Ice Lake was displayed as 'Lava'
+[Version 0.7.18.7070]
+BugFix:
+
+Fixed the bug that the power grid division may be disconnected uncorrectly after dismented power nodes
+Fixed the bug that sorters may pick up things far away by mistake because of sorter connection data error
+Thank you for your continuing support! You can send your feedback in Discord and Google Form! See you next time!

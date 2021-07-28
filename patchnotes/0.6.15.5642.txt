@@ -1,0 +1,21 @@
+0.6.15.5642
+
+https://steamdb.info/patchnotes/6134976/
+
+Hey engineers!
+
+How is everything going? A reminder before today's update note: It's ok for you to sneak off for a travel, but a long-distance travel without enough fuel and warp flight may not be a good idea. (The exhausted Icarus will float in the universe for a while to recover its power.) Anyway, out team will look into the early stage travel and see what we can do for it.
+
+[Version 0.6.15.5642]
+
+UI:
+
+Now the local time in real life is displayed in Dyson Sphere Program - Don't be confused by the 'CentreBrain'!
+Function:
+
+Now you can switch on/off the glow on Icarus at night.
+Bug Fix:
+
+Now the '0 mineral' icon will no longer show in the map.
+Fixed the bug that the number count of items collected may not be displayed correctly.
+Looking forward to your feedback in Discord and Google Form! See you next time!

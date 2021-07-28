@@ -1,0 +1,50 @@
+0.8.19.7662
+
+https://steamdb.info/patchnotes/7077684/
+
+Dear engineers,
+
+\WE REACHED BLUEPRINT SYSTEM YAAAY!!!/
+
+This is the first time for Dyson Sphere Program to have a BluePrint system. We are well aware that the system is still in an immature stage, and our team will be ready to fight the bugs in the few days after the BluePrint patch. If you find a bug, please don't hesitate to send your feedback in Discord or Google Form!, we will listen carefully and continue to improve the BluePrint system!
+
+At the same time, when you use the Blueprint function the first times, please do NOT forget to save and back up the savedata, just in case.
+
+REMINDER: You don't have to restart the game for the BluePrint system. Blueprint system can directly apply to the existing savedata.
+
+[Version 0.8.19.7662]
+
+Feature:
+
+Added Blueprint System.
+
+
+Now you can create (copy) a new Blueprint. You can select the range of Blueprint by clicking or box selection. The ready-to-build facilities can also be included in the Blueprint system.
+Now you can apply (paste) the Blueprint on the planet. You can paste the Blueprint in a chain if you hold and drag the mouse.
+Blueprint construction can realize the quick mass upgrade and downgrade of existing buildings, as well as direct coverage of building recipes and settings.
+Added the Blueprint facility statistical function. You can right-click and delete the single building you don't want in the Blueprint, or delete a certain kind of facility in the Blueprint statistical panel.
+Added Blueprint saving and Blueprint code export functions.
+Added the custom information function of Blueprints. Now you can customize the name, description of Blueprint.
+CentreBrain upgraded Icarus! Icarus can manually mine the Gas giants now. Don't be caught by Gas giant and become space junk again, Icarus!
+Added 12 rock models and textures for Arid Desert.
+Added the model and texture of the Plane Smelter.
+Added LOD1 and LOD2 of the Plane Smelter, and optimized its GPU cost.
+Add a scene for the main title. From now on, the 2 main title scenes will be randomly displayed.
+Changes:
+
+Modified the key detection logic to resolve key conflicts such as [C] and [Ctrl]+[C].
+In the Surface Formation Mode, the color prompt mask on the decorated foundation is removed, and the color prompt mask on the undecorated foundation is retained.
+Balance:
+
+Increase the number of Drones obtained through the "Communication Control" technology (This function can only be applied in a new game. The old savedata can still make up the number of Drones by upgrading the technology).
+Adjusted the flight speed of construction drones improved by the "drone engine" technology(This function can only be applied in a new game. The old savedata can still make up the speed of Drones by upgrading the technology).
+Increased the power generation of Mini Fusion Power Station (9MW ->15MW).
+Bugfix:
+
+Fixed a bug that occurred after optimizing the sorter in the [7275] version: the cargo at the end of the conveyor belt or at the node of the closed conveyor belt interface cannot be picked.
+Fixed the range detection problem when the foundation buries/restores veins.
+Fixed a bug that the Drone couldn't work properly because its speed was too fast after the technology upgrade.
+Fixed a bug that key setting conflicts will not be detected when restoring the default keys.
+Fixed a bug that the combination key may be invalid when setting the combination key in the key setting.
+Fixed a bug where there are multiple "keys not set" that will be detected as key conflicts.
+Send feedback in Discord and Google Form!

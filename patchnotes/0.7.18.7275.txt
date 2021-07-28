@@ -1,0 +1,49 @@
+0.7.18.7275
+
+https://steamdb.info/patchnotes/6985846/
+
+Hi engineers,
+
+Only a few days until the promised Blueprint System Day Wowww! We didn't forget! Here we bring some fixes and adjustments today.
+
+[Version 0.7.18.7275]
+
+Pick Up:
+
+！Since the Splitter logic has been optimized in this patch, there will be slight changes in the logistics logic built with the Splitter.
+
+！Since the stacking number is adjusted in this patch, the production line had reached its upper limit of manufacturing products in the previous patch may restart to the product.
+
+[Version 0.7.18.7275]
+
+Feature：
+
+Added real-time data display on Fractionator panel
+Change:
+
+Optimized the input and output logic of Splitter, Storage Tank, and Logistic Station to solve the problem that the conveyor belt was not easy to work in full load. Conveyor belts are now easier to fulfilled by the cargo (work at full capacity).
+
+
+Optimized the output priority and diverter logic of Splitter, so that the conveyor belt with the correct ratio can be fully transported and run with a full load
+
+
+Optimized the port determination. Now you can choose the port easier when connecting a building with Conveyor Belt, especially for multi-port buildings such as Logistics Station, and adjusted the port configuration of the port buildings
+
+
+
+
+Optimized the logic of the Fractionator, so that when the Conveyor Belt MK.III enters with hydrogen fully loaded, the fractionation speed can be exactly 30 times/s
+Optimized the CPU multi-thread logic operation of Sorter, so that the CPU time cost of Sorter will be reduced by 30%~40%
+Optimized some special construct methods of Conveyor Belt under freeline mode
+Balance:
+
+Increased the stack number of some items, including some materials, accessories, vessels, conveyor belts, sorters, and some production buildings
+The speed at which the Ray Receiver station consumes the graviton Lens decreased from 0.25/min to 0.10/min
+BugFix:
+
+Fixed the bug that sometimes the minimap in the lower left corner does not refresh
+Fixed the bug that the celestial bodies in the same distance may display a different 'Reaching in...' time.
+Fixed the bug that the cargo icon from Plane Smelter may not be displayed correctly on conveyor belts
+Oh.. yes I have another good news for you: You won't have to restart a new game for the coming Blueprint Patch ;)!
+
+Thank you for your continuing support! You can send your feedback in Discord and Google Form! See you next time!

@@ -1,0 +1,15 @@
+0.7.18.6921
+
+https://steamdb.info/patchnotes/6775566/
+
+Dear engineers,
+
+Devs have urgently fixed the main problems. But the traffic to the Milky Way view is still congested. Please try again after awhile.
+
+[Version 0.7.18.6921]
+
+Bugfix:
+
+Fixed the bug of error message after Milky Way network request failed
+Fixed the bug of Milky Way request failure and UI disappearance in star map
+Thank you for your continuing support! You can send your feedback in Discord and Google Form! See you next time!

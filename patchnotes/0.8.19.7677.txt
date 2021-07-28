@@ -1,0 +1,29 @@
+0.8.19.7677
+
+https://steamdb.info/patchnotes/7082398/
+
+Hi engineers,
+
+We are still allocating and fixing the problems reflected in the BluePrint update, and we will keep update and optimize the BluePrint system. Thank you for all of your encouragement and support for Dyson Sphere Program!
+
+Before the update log, here is some tips for BluePrint system:
+
+How to use blueprints:
+
+Double-click the saved blueprint to use it. We will add more prompt in future updates.
+
+About the Tropic (details in previous Dev Progress):
+
+The vicinity of the tropic can be divided into six situations according to the number of grids on both sides (the ratio is 3:4, 4:5, 5:6, 5:8, 2:3, and 1:2). The place vicinity type of the tropic to apply the BluePrint must be the same as where the BluePrint comes from. We suggest to just simply follow the instructions to apply the BluePrint, more prompts will be added in future updates.
+
+[Version 0.8.19.7677]
+
+Changes:
+
+Now you can recognize the different status of facilities (pre-select, pre-build and lack of item) when applying a blueprint by the different colors.
+Bugfix:
+
+Fixed the bug that you may achieve item for free when upgrade/downgrade pre-view model in white color in BluePrint system (the white color appears when you don't have enough item to finish the upgrade/downgrade).
+Fixed the bug that the Blueprint floor color did not display at higher ground that made the white pre-view model too shiny.
+Fixed the bug that a red error message may occured when type with certain IMEs in blueprint browser.
+Thank you for your continuing support! You can send your feedback in Discord and Google Form! See you next time!
