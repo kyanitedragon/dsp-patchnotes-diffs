@@ -1,10 +1,10 @@
 0.7.18.6940
 
-https://steamdb.info/patchnotes/6782788/
+https://steamcommunity.com/games/1366540/announcements/detail/3044975900140036280
 
 Hi engineers,
 
-Before the 4th update log in this week, I would like to introduce the MINIMUM requirement of being visible on Milky Way:
+Before the 4th update log in this week, I would like to introduce the MINIMUM requirement of being visible (the threshold to see yourself appear) on Milky Way:
 
 One solar sail or Dyson Sphere node is launched
 The savedata's version is 0.7.18 or above;
