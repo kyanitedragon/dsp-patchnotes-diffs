@@ -1,22 +1,21 @@
 0.6.15.5666
 
-https://web.archive.org/web/20210128182500/https://steamcommunity.com/games/1366540/announcements/detail/3065231317858269346
+https://steamcommunity.com/games/1366540/announcements/detail/3065231317858269346
 
 Dear engineers,
 
-How’s your galaxy factory going?
-It has been a week since the launching of Dyson Sphere Program. We’re so glad that Dyson Sphere Program can be liked by such a lot of players, and didn't expect it can reach 350,000 sold copies in one week! It's such a surprise that both encouraged us and pressure us. At the moment, the team is still busy in the game development and debug to answer the supports we have achieved from every individually you, and make the game less problems and more fun.
+How fares your interstellar factory?
+It’s been a week since the launch of Dyson Sphere Program. We’re exhilarated that Dyson Sphere Program is loved by such a great number of players. We never expected to hit 350,000 sold copies in one week! This comes as a surprise yet gives us the encouragement to strive for the best. At this moment, our development team is busy installing new features and cleaning out the bugs discovered by our beloved players. We do appreciate all the feedback that has been provided by you, our players, and shall continue working hard to provide an entertaining and bug-free game.
 
-Your expectation on Dyson Sphere Program's potential was snowflaked to us by the feedback and suggestions. Don't worry, most of the expectations are already in our roadmap. But Rome wasn't built in A day, neither the 'Combat', 'Assembly Space Platform' or 'Workshops'.
+We’re paying a lot of attention to your feedback and suggestions. Don’t worry – most of your requests are already in our roadmap… but Rome wasn’t built in a day – neither features such as combat, assembling space platforms or workshops.
 
-Today we are going to tell 'what we are going to done before Chinese New Year' (the holidays will begin at 11th February). Most of them are the burning problems from your feedbacks. Let's take a look:
+Today we want to discuss with you our short-term goals, what we plan to do before the Chinese New Year holidays, which begin at February 11th:
 
-What we are going to done before 11th February?
-Quick Upgrade: You will be able to upgrade some of the buildings and conveyors by directly build (cover/overlap/displace) the higher grade facilities on the lower grade facilities, instead of demolish the lower grade one in advance.
+Quick Upgrade: You will be able to upgrade some buildings and conveyors by directly putting the new ones (cover/overlap/move) on the lower grade facilities, without having to demolish the old ones..
 
-Keybinding: It's a very important function for many of you, engineers. We will finish it before 11th February.
+Keybinding: You’ll be able to rebind hotkeys in your keyboard.
 
-Framework of logistics management system: A basic management framework will be setup to the logistics system. Of course, it will be still 'basic' at February that may only bring 'basic' logistic solution for you, such as the farthest transportation distance and the quantity requirement of delivering goods. The logistic system will be fleshed with the progress of game development in the future.
+Framework of logistics management system: A basic management framework will be setup to the logistics system. Of course, it will be still 'basic' at February that may only bring 'basic' logistic solution for you, such as the furthest transportation distance and the quantity requirement of delivering goods. The logistic system will be fleshed with the progress of game development in the future.
 
 A more detailed Game Development Roadmap will be published after Chinese New Year holidays. Tons of contents you are looking forward are included in it - such as "Combats", "Assembly Space Platform", "Workshops", etc.
 
@@ -28,7 +27,7 @@ At the end of the letter, from the bottom of our heart, thank you!!!
 [Version 0.6.15.5666]
 
 Feature:
-Smart Warp: From now on, your mecha will not miss or hit on the planet - It will decelerate and turn off the warp engine automatically as it approaches to a planet in warp. Thanks to the latest warp firmware!
+Smart Warp: Your Icarus mecha will decelerate and turn off the engine automatically to land safely on a planet.
 
 
 Bug Fix:
