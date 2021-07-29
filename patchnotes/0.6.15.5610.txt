@@ -1,0 +1,18 @@
+0.6.15.5610
+
+https://steamcommunity.com/games/1366540/announcements/detail/3069734283128255790
+
+Hi engineers!
+
+After a very-short break, we are publishing a new patch now. Thanks to the snowflaking-feedback from players with full of support, expectation and urging, we are greatly encouraged and feel super energic to continue the fixing work - Don't worry, we have read All of them! But we have to solve them one by one.
+Thank you and don’t forget to submit the bugs either by ( Discord, or Google Form)!
+
+
+[Version 0.6.15.5610]
+Features:
+- Add a tip "Research speed too slow": If you see this tip, means you can build/run more Matrix Labs to speed up your research.
+
+Bugfix:
+- Fix a bug that the FPS may decrease severely in certain situation.
+- Fix a bug that Veins Bury may not work correctly in certain situation.
+- Fix some English translation errors in Tech Tree.

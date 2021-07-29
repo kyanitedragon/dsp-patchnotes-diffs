@@ -1,0 +1,47 @@
+0.6.15.5666
+
+https://steamcommunity.com/games/1366540/announcements/detail/3065231317858269346
+
+Dear engineers,
+
+How fares your interstellar factory?
+It’s been a week since the launch of Dyson Sphere Program. We’re exhilarated that Dyson Sphere Program is loved by such a great number of players. We never expected to hit 350,000 sold copies in one week! This comes as a surprise yet gives us the encouragement to strive for the best.
+At this moment, our development team is busy installing new features and cleaning out the bugs discovered by our beloved players. We do appreciate all the feedback that has been provided by you, our players, and shall continue working hard to provide an entertaining and bug-free game.
+
+We’re paying a lot of attention to your feedback and suggestions. Don’t worry – most of your requests are already in our roadmap… but Rome wasn’t built in a day – neither features such as combat, assembling space platforms or workshops.
+
+Today we want to discuss with you our short-term goals, what we plan to do before the Chinese New Year holidays, which begin at February 11th:
+
+Quick Upgrade: You will be able to upgrade some buildings and conveyors by directly putting the new ones (cover/overlap/move) on the lower grade facilities, without having to demolish the old ones..
+
+Keybinding: You’ll be able to rebind hotkeys in your keyboard.
+
+Framework of logistics management system: A basic management framework will be setup to the logistics system. Of course, it will be still 'basic' at February that may only bring 'basic' logistic solution for you, such as the furthest transportation distance and the quantity requirement of delivering goods. The logistic system will be fleshed with the progress of game development in the future.
+
+A more detailed Game Development Roadmap will be published after Chinese New Year holidays. Tons of contents you are looking forward are included in it - such as "Combats", "Assembly Space Platform", "Workshops", etc.
+
+At the end of the letter, from the bottom of our heart, thank you!!!
+
+
+(The Patch Note is late, but never absent.)
+
+[Version 0.6.15.5666]
+
+Feature:
+Smart Warp: Your Icarus mecha will decelerate and turn off the engine automatically to land safely on a planet.
+
+
+Bug Fix:
+Fixed the bug that sometimes the vessels can't catch up with the planets with a fast revolution.
+Fixed the bug that sometimes the rockets can't catch up with the Dyson Sphere with a fast rotation.
+Fixed the bug that sometimes the mecha walked with the wrong VisualFX and SoundFX.
+Fixed the layout that the words overlapped on each other in accumulator UI.
+
+
+Game Setting:
+Now you have more choices on Max FPS Options, such as 30fps, 144fps, etc.
+
+
+
+
+Looking forward to your feedback in Discord and Google Form! See you next time!
