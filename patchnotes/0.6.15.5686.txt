@@ -1,15 +1,15 @@
 0.6.15.5686
 
-https://steamdb.info/patchnotes/6168275/
+https://web.archive.org/web/20210201124323/https://steamcommunity.com/games/1366540/announcements/detail/3065231317871956186
 
 Hi engineers,
 
-Have you "put on" new "clothes" for the starts today? We're so glad that Dyson Sphere Program got the 1st place in the week's global Top Sale. We will keep moving on along with your supports and loves!
+Have you “put on” new “clothes” for the Sun today? We’re excited to announce that Dyson Sphere Program has ranked first place in Steam’s weekly global Top Sellers! This achievement is made possible by you and we will keep moving on with your love and support!
 
 [Version 0.6.15.5686]
 
-An Important Fix: When planets or planetary system is loading, the autosave will be automatically delayed until dynamic loading is finished. It can prevent thread conflicts.
-Icarus is now glowing with optimized color and brightness at night.
+IMPORTANT FIX: Autosaves will be automatically delayed until dynamic loading of planets and planetary systems is complete to prevent thread conflicts.
+Icarus now glows with enhanced color and brightness at night.
 The minimum UI layout reference height has been changed to 900.
-Some of the English technology description have been changed.
-Looking forward to your feedback in Discord and Google Form! See you next time!
+Some English technology descriptions have been reworked.
+Thank you for your continuing support! Looking forward to your feedback in Discord and Google Form! See you next time!
